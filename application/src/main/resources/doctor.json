@@ -1,0 +1,18 @@
+{
+  "id": "2",
+  "department": "terminal",
+  "patients" : [
+    {
+      "id": "1",
+      "first_name": "Taylor",
+      "last_name": "West",
+      "diseases":["long_legs", "nice_to_people"]
+    },
+    {
+      "id": "2",
+      "first_name": "Jay",
+      "last_name": "Lee",
+      "diseases":["used_to_have_dredds", "nice_to_people"]
+    }
+  ]
+}
